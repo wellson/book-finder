@@ -7,5 +7,6 @@ Projeto book do google - Multiliguagem.
 Este projeto poderá ser rodando na versão 3.7.7 ou superior
 
 - flutter clean
-- flutter pub get 
+- flutter pub get
+- flutter run  ou em mode debug. 
 
